@@ -1,0 +1,18 @@
+.my-div{
+    margin: 20px;
+    display: 0;
+    width: 100%;
+    flex-wrap: wrap;
+    
+    display: swap;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: -100%;
+    background-color: purple;
+    /*display: flex;
+    
+    
+    
+    */
+    
+}
