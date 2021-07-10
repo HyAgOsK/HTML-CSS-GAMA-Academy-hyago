@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 ## Pré-requisitos
 - <br>
-  você deverá ter Vscode com extensao Live server instalada para abrir uma janela no navegador com **GOlive**,ou a extens'ao do HTML5 com o comando Ctrl + shift + v --> abrira um preview no proprio editor de texto Vscode e um **navegador recente**.
+  você deverá ter Vscode com extensao Live server instalada para abrir uma janela no navegador com *GOlive*,ou a extensao do HTML5 com o comando Ctrl + shift + v --> <font color ='green'>abrira um preview no proprio editor de texto Vscode e um *navegador recente*.
                     - <br>
                     <img src = "https://blog.cod3r.com.br/wp-content/uploads/2020/11/12.png" alt = "Extensions">
 <a href = "https://code.visualstudio.com/">Baixe o Visual Studio Code. 
