@@ -9,6 +9,8 @@
     margin-right: 300px;
     padding: -100%;
     background-color: purple;
+    column-rule-color: black;
+    outline-color: gray;
     /*display: flex;
     
     
